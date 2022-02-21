@@ -38,8 +38,8 @@ const animes = [
 ```javascript
 // Resultado esperado
 [
-  { id: 1, nome: 'Dragon Ball', autor: 'Dari' },
-  { id: 4, nome: 'Dragon Ball Z', autor: 'Dari' }
+  { id: 1, nome: 'Dragon Ball', autor: 'Akira Toriyama' },
+  { id: 4, nome: 'Dragon Ball Z', autor: 'Akira Toriyama' }
 ]
 ```
 
