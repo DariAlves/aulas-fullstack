@@ -45,7 +45,7 @@ const animes = [
 
 **Faça utlizando os seguinte métodos:**
 
-* Usar for loop
+* Usar for
 * Usar for...of
 * Usar filter()
 
@@ -67,7 +67,7 @@ const animes = [
 
 ### Referências
 
-[1 - for loop](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for)
+[1 - for](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for)
 
 [2 - for...of](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for...of)
 
