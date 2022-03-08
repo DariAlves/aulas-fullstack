@@ -1,0 +1,50 @@
+/* Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container */
+.container {
+  display: flex;
+  padding: 50px;
+  background-color: rgb(0, 0, 0);
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+/* H1 */
+.title {
+  color: #fff;
+  text-shadow: 1px 2px 2px #000;
+  text-transform: uppercase;
+}
+
+/* Button */
+.button {
+  padding: 20px 40px;
+  background: blanchedalmond;
+  border: none;
+  cursor: pointer;
+  box-shadow: 1px 2px 3px #000;
+  border-radius: 3px;
+  transition: 0.2s;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.button:hover {
+  box-shadow: 1px 1px 1px #000;
+}
+
+/* P */
+.text {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}
