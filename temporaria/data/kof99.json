@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nomeDoTime": "Hero Team",
+    "lutadores": ["K", "Maxima", "Benimaru Nikaido", "Shingo Yabuki"]
+  },
+  {
+    "id": 2,
+    "nomeDoTime": "Fatal Fury Team",
+    "lutadores": ["Terry Bogard", "Andy Bogard", "Joe Higashi", "Mai Shiranui"]
+  },
+  {
+    "id": 3,
+    "nomeDoTime": "Art of Fighting Team",
+    "lutadores": [
+      "Ryo Sakazaki",
+      "Robert Garcia",
+      "Yuri Sakazaki",
+      "Takuma Sakazaki"
+    ]
+  }
+]
